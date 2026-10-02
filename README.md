@@ -9,55 +9,29 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Elly Andrew Ochieng 👋</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer &nbsp;|&nbsp; DevOps Engineer &nbsp;|&nbsp; Systems Administrator</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ellyandrew">
-    <img src="https://img.shields.io/badge/GitHub-ellyandrew-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-004FBD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20DevOps-004FBD?style=flat-square" />
-</p>
-
-<br>
-
 <table>
 <tr>
 <td width="65%" valign="top">
 
 ### About Me
-
-I am a software developer with **7+ years of experience** designing, developing, deploying, and maintaining secure, scalable web applications and enterprise systems.
-
-My work combines **software engineering, backend development, database management, infrastructure administration, and DevOps** to deliver practical digital solutions from development through production.
-
+My work combines **software engineering, backend development, database management, infrastructure administration, and DevOps engineering** to deliver practical digital solutions from development through production.
 I enjoy building systems that improve business processes, automate operations, manage data efficiently, and provide reliable user experiences.
 
 </td>
 
 <td width="35%" valign="top">
 
-### What I Do
+### Core Competencies
 
-💻 Full-Stack Development
+* **Software Engineering** — Full-Stack Development
+* **System Architecture** — Enterprise Applications
+* **Backend Engineering** — REST APIs & System Integration
+* **Database Engineering** — Data Modeling & Optimization
+* **Cloud & Infrastructure** — Azure, Linux & Server Administration
+* **DevOps Engineering** — CI/CD, Docker & Deployment
+* **Cybersecurity** — Application Security & Access Control
+* **Automation** — Infrastructure as Code & Workflow Automation
 
-🏗️ Enterprise Systems
-
-🔌 API Development
-
-🗄️ Database Engineering
-
-☁️ Server Administration
-
-🚀 DevOps & CI/CD
-
-🔐 Application Security
-
-⚙️ System Automation
 
 </td>
 </tr>
@@ -67,115 +41,61 @@ I enjoy building systems that improve business processes, automate operations, m
 
 ## Technical Skills
 
+## 🛠️ Technology Stack
+
 <table>
 <tr>
-<td align="center">
-<strong>JavaScript</strong>
-</td>
-<td align="center">
-<strong>TypeScript</strong>
-</td>
-<td align="center">
-<strong>React</strong>
-</td>
-<td align="center">
-<strong>Next.js</strong>
-</td>
-<td align="center">
-<strong>Node.js</strong>
-</td>
-</tr>
+<td valign="top" width="33%">
 
-<tr>
-<td align="center">
-<strong>PHP</strong>
-</td>
-<td align="center">
-<strong>Laravel</strong>
-</td>
-<td align="center">
-<strong>Python</strong>
-</td>
-<td align="center">
-<strong>HTML</strong>
-</td>
-<td align="center">
-<strong>CSS</strong>
-</td>
-</tr>
+### 💻 Development
 
-<tr>
-<td align="center">
-<strong>Tailwind CSS</strong>
-</td>
-<td align="center">
-<strong>MySQL</strong>
-</td>
-<td align="center">
-<strong>MariaDB</strong>
-</td>
-<td align="center">
-<strong>PostgreSQL</strong>
-</td>
-<td align="center">
-<strong>Prisma</strong>
-</td>
-</tr>
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Node.js
+* PHP
+* Laravel
+* Python
+* HTML5
+* CSS3
+* Tailwind CSS
 
-<tr>
-<td align="center">
-<strong>REST APIs</strong>
 </td>
-<td align="center">
-<strong>Linux</strong>
-</td>
-<td align="center">
-<strong>Ubuntu</strong>
-</td>
-<td align="center">
-<strong>Docker</strong>
-</td>
-<td align="center">
-<strong>Nginx</strong>
-</td>
-</tr>
+<td valign="top" width="33%">
 
-<tr>
-<td align="center">
-<strong>Git</strong>
-</td>
-<td align="center">
-<strong>GitHub</strong>
-</td>
-<td align="center">
-<strong>GitHub Actions</strong>
-</td>
-<td align="center">
-<strong>PM2</strong>
-</td>
-<td align="center">
-<strong>CI/CD</strong>
-</td>
-</tr>
+### 🗄️ Data & APIs
 
-<tr>
-<td align="center">
-<strong>NextAuth</strong>
+* MySQL
+* MariaDB
+* PostgreSQL
+* Prisma
+* Database Design
+* REST APIs
+* API Integration
+* Authentication
+* API Security
+
 </td>
-<td align="center">
-<strong>Authentication</strong>
-</td>
-<td align="center">
-<strong>API Security</strong>
-</td>
-<td align="center">
-<strong>Database Design</strong>
-</td>
-<td align="center">
-<strong>System Administration</strong>
+<td valign="top" width="33%">
+
+### ☁️ Infrastructure & DevOps
+
+* Linux
+* Ubuntu
+* Docker
+* Nginx
+* PM2
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* System Administration
+
 </td>
 </tr>
 </table>
+
 
 <br>
 
