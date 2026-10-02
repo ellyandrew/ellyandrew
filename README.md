@@ -171,29 +171,20 @@ scalability, maintainability and reliable deployment</strong>.
 
 <p align="center">
   <a href="https://deskplas.uhrtur.co.ke">
-    <img
-      src="assets/deskplas_favicon.png"
-      alt="Deskplas School Management System"
-      width="100"
-      height="100"
-    />
+    <img src="assets/deskplas_favicon.png" alt="Deskplas" width="70" height="70"/>
   </a>
 </p>
 
 <h3>Deskplas</h3>
 
-<p>
-<strong>School Management Platform</strong>
-</p>
+<p><strong>School Management Platform</strong></p>
 
 <p>
-A comprehensive platform designed to automate academic, financial,
-student and administrative operations.
+A comprehensive platform for managing academic, financial, student
+and administrative operations.
 </p>
 
-<p>
-<sub>Next.js · TypeScript · Prisma · MySQL</sub>
-</p>
+<p><sub>Next.js · TypeScript · Prisma · MySQL</sub></p>
 
 <a href="https://deskplas.uhrtur.co.ke">
   <strong>View Project</strong>
@@ -205,32 +196,23 @@ student and administrative operations.
 
 <p align="center">
   <a href="https://verdia.capital/">
-    <img
-      src="assets/verdia.png"
-      alt="Investment Platform"
-      width="120"
-      height="120"
-    />
+    <img src="assets/verdia.png" alt="Verdia Capital" width="70" height="70"/>
   </a>
 </p>
 
 <h3>Verdia Capital</h3>
 
-<p>
-<strong>Asset Exchange</strong>
-</p>
+<p><strong>Trading & Investment Platform</strong></p>
 
 <p>
-A modern trading and investment platform designed to provide users with a secure and intuitive environment for
-  managing trading activities, monitoring markets, and managing investment portfolios.
+A modern platform for trading activities, market monitoring and
+investment portfolio management.
 </p>
 
-<p>
-<sub>Next.js · TypeScript · Prisma · MySQL</sub>
-</p>
+<p><sub>Next.js · TypeScript · Prisma · MySQL</sub></p>
 
 <a href="https://verdia.capital/">
-  <strong>View Project - On going</strong>
+  <strong>View Project · Ongoing</strong>
 </a>
 
 </td>
@@ -242,40 +224,26 @@ A modern trading and investment platform designed to provide users with a secure
 <td width="50%" valign="top">
 
 <p align="center">
-  <a href="#">
-    <img
-      src="assets/kws.png"
-      alt="Kenya Wildlife Service"
-      width="120"
-      height="120"
-    />
+  <a href="https://kws.go.ke/">
+    <img src="assets/kws.png" alt="Kenya Wildlife Service" width="70" height="70"/>
   </a>
 </p>
 
 <h3>Kenya Wildlife Service</h3>
 
+<p><strong>Enterprise Applications</strong></p>
+
 <p>
-<strong>Enterprise Digital Transformation & Operational Systems</strong>
+Enterprise applications that support Kenya Wildlife Services digital transformation and operational efficiency.
+Delivering secure, scalable, and high-performance systems across the country in tourism.
 </p>
 
 <p>
-Leading the development and maintenance of enterprise applications
-supporting Kenya Wildlife Service digital transformation and operational
-efficiency.
+<sub>Full-Stack · Database Engineering · DevOps · Systems Administration</sub>
 </p>
 
-<p>
-Delivering secure, scalable and high-performance systems, including
-database optimizations that achieved a <strong>60% reduction in query
-times</strong> while improving system reliability and service delivery.
-</p>
-
-<p>
-<sub>Enterprise Applications · Full-Stack Development · Database Engineering · DevOps · System Administration</sub>
-</p>
-
-<a href="#">
-  <strong>View Project →</strong>
+<a href="https://kws.go.ke/">
+  <strong>View Project</strong>
 </a>
 
 </td>
@@ -284,33 +252,52 @@ times</strong> while improving system reliability and service delivery.
 
 <p align="center">
   <a href="https://kryptologistics.org/index.php">
-    <img
-      src="assets/kryptologistics.png"
-      alt="Kryptologistics"
-      width="120"
-      height="120"
-    />
+    <img src="assets/kryptologistics.png" alt="Kryptologistics" width="70" height="70"/>
   </a>
 </p>
 
 <h3>Kryptologistics</h3>
 
-<p>
-<strong>Digital Transport & Logistics Platform</strong>
-</p>
+<p><strong>Digital Transport & Logistics Platform</strong></p>
 
 <p>
-A digital platform for an oil and gas logistics company, designed to
-support transportation operations, logistics management, customer
-engagement and operational visibility.
+A digital logistics platform supporting transportation operations,
+customer engagement and operational visibility.
 </p>
 
-<p>
-<sub>Web Application · Logistics Platform · REST APIs · Database</sub>
-</p>
+<p><sub>Web Application · REST APIs · Database</sub></p>
 
 <a href="https://kryptologistics.org/index.php">
-  <strong>View Project →</strong>
+  <strong>View Project</strong>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://uthabitiafrica.org">
+    <img src="assets/uthabiti.png" alt="Uthabiti Africa" width="70" height="70"/>
+  </a>
+</p>
+
+<h3>Uthabiti Africa</h3>
+
+<p><strong>Childcare & Social Impact Platform</strong></p>
+
+<p>
+A digital platform supporting childcare systems, community programmes,
+practitioners and social impact initiatives across Africa.
+</p>
+
+<p><sub>Web Platform · Social Impact · Community Systems</sub></p>
+
+<a href="https://uthabitiafrica.org">
+  <strong>Visit Website</strong>
 </a>
 
 </td>
@@ -318,48 +305,29 @@ engagement and operational visibility.
 <td width="50%" valign="top">
 
 <p align="center">
-  <a href="https://uthabitiafrica.org">
-    <img
-      src="assets/uthabiti.png"
-      alt="Uthabiti Africa"
-      width="120"
-      height="120"
-    />
-  </a>
+  <img src="assets/kws.png" alt="Legal Register" width="70" height="70"/>
 </p>
 
-<h3>Uthabiti Africa</h3>
+<h3>Legal Register</h3>
+
+<p><strong>Legal Case Management System</strong></p>
 
 <p>
-<strong>Childcare Systems & Social Impact Platform</strong>
+An enterprise platform for managing legal matters, case records,
+workflows and organizational legal information.
 </p>
 
-<p>
-A digital platform supporting Uthabiti Africa's work to accelerate
-quality, affordable childcare across Africa by strengthening systems,
-supporting practitioners and partners, and unlocking livelihoods,
-especially for women.
-</p>
+<p><sub>Web Application · REST APIs · Database</sub></p>
 
-<p>
-Through the Uthabiti Africa Foundation, the platform also supports
-community programmes that help translate policy into meaningful,
-lasting social impact.
-</p>
-
-<p>
-<sub>Web Platform · Social Impact · Childcare Systems · Community Programmes</sub>
-</p>
-
-<a href="https://uthabitiafrica.org">
-  <strong>Visit Uthabiti Africa →</strong>
+<a href="https://legal.uhrtur.co.ke/">
+  <strong>View Project</strong>
 </a>
 
 </td>
 
-
 </tr>
 </table>
+
 
 <br><br>
 
@@ -425,7 +393,7 @@ CI/CD, automation, Git workflows and deployment management.
     />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/elly-andrew-2b57b81b2">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
