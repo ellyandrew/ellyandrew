@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/github-banner.png" alt="Elly Andrew Ochieng - Full-Stack Developer | DevOps Engineer | Systems Administrator" width="100%" />
+  <img src="assets/my-banner.png" alt="Elly Andrew Ochieng - Full-Stack Developer | DevOps Engineer | Systems Administrator" width="100%" />
 </p>
 # Hi, I'm Elly Andrew Ochieng 👋
 
