@@ -16,4 +16,30 @@ My work focuses on building practical digital solutions, developing robust backe
 - ☁️ Linux server administration and application deployment
 - 🚀 Automation and CI/CD
 
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,express" />
+</p>
+
+### ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,github" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
 
