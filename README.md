@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Elly Andrew Ochieng 👋
 
-<!--
-**ellyandrew/ellyandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Systems Administrator | DevOps
 
-Here are some ideas to get you started:
+I am a software developer with 7+ years of experience designing, developing, deploying, and maintaining secure, scalable web applications and enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on building practical digital solutions, developing robust backend APIs, managing databases, and deploying applications to production environments.
+
+- 💻 Full-stack web application development
+- 🏗️ Enterprise systems and API development
+- 🗄️ Database design and management
+- ☁️ Linux server administration and application deployment
+- 🚀 Automation and CI/CD
+
+
