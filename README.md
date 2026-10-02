@@ -1,6 +1,6 @@
 # Hi, I'm Elly Andrew Ochieng 👋
 
-### Full-Stack Developer | Systems Administrator | DevOps
+### Full-Stack Developer | Systems Administrator | DevOps Engineer
 
 I am a software developer with 7+ years of experience designing, developing, deploying, and maintaining secure, scalable web applications and enterprise systems.
 
