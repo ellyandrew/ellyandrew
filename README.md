@@ -169,13 +169,16 @@ scalability, maintainability and reliable deployment</strong>.
 
 <td width="50%" valign="top">
 
-<a href="https://deskplas.uhrtur.co.ke">
-  <img
-    src="assets/projects/deskplas_favicon.png"
-    alt="Deskplas School Management System"
-    width="100%"
-  />
-</a>
+<p align="center">
+  <a href="https://deskplas.uhrtur.co.ke">
+    <img
+      src="assets/deskplas_favicon.png"
+      alt="Deskplas School Management System"
+      width="120"
+      height="120"
+    />
+  </a>
+</p>
 
 <h3>Deskplas</h3>
 
@@ -193,38 +196,38 @@ student and administrative operations.
 </p>
 
 <a href="https://deskplas.uhrtur.co.ke">
-  <strong>View Project →</strong>
+  <strong>View Project</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<a href="#">
+<a href="https://verdia.capital/">
   <img
-    src="assets/projects/attachment-portal.png"
-    alt="Student Attachment Portal"
+    src="assets/verdia.png"
+    alt="Investment Platform"
     width="100%"
   />
 </a>
 
-<h3>Student Attachment Portal</h3>
+<h3>Verdia Capital</h3>
 
 <p>
-<strong>Student Placement & Attachment Management</strong>
+<strong>Asset Exchange</strong>
 </p>
 
 <p>
-A digital platform for managing applications, institutions, departments,
-stations, attachment cycles and student placements.
+A modern trading and investment platform designed to provide users with a secure and intuitive environment for
+  managing trading activities, monitoring markets, and managing investment portfolios.
 </p>
 
 <p>
 <sub>Next.js · TypeScript · Prisma · MySQL</sub>
 </p>
 
-<a href="#">
-  <strong>View Project →</strong>
+<a href="https://verdia.capital/">
+  <strong>View Project - On going</strong>
 </a>
 
 </td>
@@ -266,34 +269,36 @@ processing, tracking and operational reporting.
 
 <td width="50%" valign="top">
 
-<a href="#">
+<a href="https://kryptologistics.org/index.php">
   <img
-    src="assets/projects/legal-register.png"
-    alt="Legal Register"
+    src="assets/kryptologistics.png"
+    alt="Kryptologistics"
     width="100%"
   />
 </a>
 
-<h3>Legal Register</h3>
+<h3>Kryptologistics</h3>
 
 <p>
-<strong>Legal Case Management System</strong>
+<strong>Digital Transport & Logistics Platform</strong>
 </p>
 
 <p>
-A platform for managing legal matters, case records, workflows
-and organizational legal information.
+A digital platform for an oil and gas logistics company, designed to
+support transportation operations, logistics management, customer
+engagement and operational visibility.
 </p>
 
 <p>
-<sub>Web Application · REST APIs · Database</sub>
+<sub>Web Application · Logistics Platform · REST APIs · Database</sub>
 </p>
 
-<a href="#">
+<a href="https://kryptologistics.org/index.php">
   <strong>View Project →</strong>
 </a>
 
 </td>
+
 
 </tr>
 </table>
