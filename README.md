@@ -174,8 +174,8 @@ scalability, maintainability and reliable deployment</strong>.
     <img
       src="assets/deskplas_favicon.png"
       alt="Deskplas School Management System"
-      width="120"
-      height="120"
+      width="100"
+      height="100"
     />
   </a>
 </p>
@@ -203,13 +203,16 @@ student and administrative operations.
 
 <td width="50%" valign="top">
 
-<a href="https://verdia.capital/">
-  <img
-    src="assets/verdia.png"
-    alt="Investment Platform"
-    width="100%"
-  />
-</a>
+<p align="center">
+  <a href="https://verdia.capital/">
+    <img
+      src="assets/verdia.png"
+      alt="Investment Platform"
+      width="120"
+      height="120"
+    />
+  </a>
+</p>
 
 <h3>Verdia Capital</h3>
 
@@ -238,27 +241,37 @@ A modern trading and investment platform designed to provide users with a secure
 
 <td width="50%" valign="top">
 
-<a href="#">
-  <img
-    src="assets/projects/service-request.png"
-    alt="Service Request Management System"
-    width="100%"
-  />
-</a>
+<p align="center">
+  <a href="#">
+    <img
+      src="assets/kws.png"
+      alt="Kenya Wildlife Service"
+      width="120"
+      height="120"
+    />
+  </a>
+</p>
 
-<h3>Service Request Management</h3>
+<h3>Kenya Wildlife Service</h3>
 
 <p>
-<strong>Enterprise Workflow Platform</strong>
+<strong>Enterprise Digital Transformation & Operational Systems</strong>
 </p>
 
 <p>
-A workflow system for managing service requests, assignments,
-processing, tracking and operational reporting.
+Leading the development and maintenance of enterprise applications
+supporting Kenya Wildlife Service digital transformation and operational
+efficiency.
 </p>
 
 <p>
-<sub>Next.js · REST APIs · MySQL · Linux</sub>
+Delivering secure, scalable and high-performance systems, including
+database optimizations that achieved a <strong>60% reduction in query
+times</strong> while improving system reliability and service delivery.
+</p>
+
+<p>
+<sub>Enterprise Applications · Full-Stack Development · Database Engineering · DevOps · System Administration</sub>
 </p>
 
 <a href="#">
@@ -269,13 +282,16 @@ processing, tracking and operational reporting.
 
 <td width="50%" valign="top">
 
-<a href="https://kryptologistics.org/index.php">
-  <img
-    src="assets/kryptologistics.png"
-    alt="Kryptologistics"
-    width="100%"
-  />
-</a>
+<p align="center">
+  <a href="https://kryptologistics.org/index.php">
+    <img
+      src="assets/kryptologistics.png"
+      alt="Kryptologistics"
+      width="120"
+      height="120"
+    />
+  </a>
+</p>
 
 <h3>Kryptologistics</h3>
 
@@ -295,6 +311,48 @@ engagement and operational visibility.
 
 <a href="https://kryptologistics.org/index.php">
   <strong>View Project →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://uthabitiafrica.org">
+    <img
+      src="assets/uthabiti.png"
+      alt="Uthabiti Africa"
+      width="120"
+      height="120"
+    />
+  </a>
+</p>
+
+<h3>Uthabiti Africa</h3>
+
+<p>
+<strong>Childcare Systems & Social Impact Platform</strong>
+</p>
+
+<p>
+A digital platform supporting Uthabiti Africa's work to accelerate
+quality, affordable childcare across Africa by strengthening systems,
+supporting practitioners and partners, and unlocking livelihoods,
+especially for women.
+</p>
+
+<p>
+Through the Uthabiti Africa Foundation, the platform also supports
+community programmes that help translate policy into meaningful,
+lasting social impact.
+</p>
+
+<p>
+<sub>Web Platform · Social Impact · Childcare Systems · Community Programmes</sub>
+</p>
+
+<a href="https://uthabitiafrica.org">
+  <strong>Visit Uthabiti Africa →</strong>
 </a>
 
 </td>
